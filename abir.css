@@ -52,3 +52,44 @@ body{
     color: black;
    
 }
+.thard-part{
+    display: flex;
+}
+.box-div{
+    background-color: rgb(128, 128, 248);
+    width: 28%;
+    text-align: left;
+    padding: 15px;
+    margin-left: 5%;
+    margin-right: 3%;
+    border-radius: 10px;
+}
+.box-diva{
+    background-color:rgb(244, 137, 137);
+    width: 28%;
+    text-align: left;
+    padding: 15px;
+    margin-left: 5%;
+    margin-right: 3%;
+    border-radius: 10px;
+}.box-divb{
+    background-color: rgb(157, 247, 154);
+    width: 28%;
+    text-align: left;
+    padding: 15px;
+    margin-left: 5%;
+    margin-right: 3%;
+    border-radius: 10px;
+}
+.last-do{
+    text-align: center;
+    background-color: black;
+    height: 150px;
+}
+.last-do p{
+    color: white;
+}
+.last{
+    color: tomato;
+    font-style: oblique;
+}
